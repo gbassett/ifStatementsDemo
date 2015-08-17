@@ -18,7 +18,7 @@ namespace ifStatementsDemo
             }
             else if ((age > 7) && (age < 13))
             {
-                Console.WriteLine("Go to elementry school");
+                Console.WriteLine("Go to middle school");
             }
             else if ((age > 13) && (age <= 18))
             {
